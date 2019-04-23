@@ -1,0 +1,18 @@
+ 
+.App {
+	width: 454px;
+	height: 594px;
+	border: 1px solid grey;
+}
+
+.buttons {
+ 	display:flex;
+}
+
+ .number-buttons {
+ 	display:flex;
+ 	flex-wrap: wrap;
+ 	flex-direction: row-reverse;
+ 	justify-content: flex-end;
+	width: 334px;
+ }

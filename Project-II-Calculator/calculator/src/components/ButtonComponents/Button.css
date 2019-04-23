@@ -1,0 +1,32 @@
+.action-button {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 334px;
+	height: 94px;
+	font-size: 42px;
+	border: 1px solid grey;
+	background-color: white;
+}
+
+.number-button {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 111.2px;
+	height: 94px;
+	font-size: 42px;
+	border: 1px solid grey;
+	background-color: white;
+}
+
+.arithmatic-button {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 120px;
+	height: 94px;
+	font-size: 42px;
+	border: 1px solid grey;
+	background-color: red;
+}
