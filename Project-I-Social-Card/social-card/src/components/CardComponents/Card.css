@@ -1,1 +1,32 @@
 /* All styles for your Card Components live here */
+.card-container {
+	padding-left: 66px;
+}
+
+.card-banner {
+	width: 505px;
+	height: 252px;
+}
+
+.card-content {
+	width: 490px;
+	height: 100px;
+	padding-left: 14px;
+}
+
+.card-content h4 {
+	margin: 8px 0;
+	font-size: 14.2px;
+}
+
+.card-content p {
+	font-size: 14.1px;
+	margin: 0;
+	margin-bottom: 6px;
+}
+
+.card-content a {
+	text-decoration: none;
+	color: grey;
+	font-size: 14px;
+}
