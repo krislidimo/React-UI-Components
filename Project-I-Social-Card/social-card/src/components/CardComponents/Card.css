@@ -1,7 +1,6 @@
 /* All styles for your Card Components live here */
 .card-container {
 	padding-left: 66px;
-	border: 1px solid pink;
 }
 
 .card-banner {
@@ -13,7 +12,6 @@
 	width: 490px;
 	height: 100px;
 	padding-left: 14px;
-	border: 1px solid black;
 }
 
 .card-content h4 {
